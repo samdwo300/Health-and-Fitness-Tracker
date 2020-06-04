@@ -2,6 +2,9 @@
 """
 Created on Wed May 20 09:52:47 2020
 
+Still a work in progress. I still need to create a function to add/maybe delete columns. Also want to implement a way to edit the existing information.
+Down the road possibly work on creating a GUI or an mobile app. 
+
 @author: samdw
 """
 import numpy as np
